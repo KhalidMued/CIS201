@@ -1,0 +1,35 @@
+		p{
+			color: royalblue;
+			font: bolder;
+			font-size: 18px;
+		}
+
+		h1{
+			font-family: cursive;
+		}
+
+		h3.now{
+			font-family: serif;
+			color: slategrey;
+		}
+
+		body{
+			background-color: mistyrose;
+		}
+		table{
+			border: 2px solid black;
+			border-collapse: collapse;
+			width: 40%;
+			
+		}
+
+		td{
+			border: 1px solid black;
+			padding: 30px;
+			text-align: center;
+		}
+		
+		li{
+			font-family: fantasy;
+			font-size: 15px;
+		}
